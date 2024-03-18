@@ -34,8 +34,7 @@ para fechar a conta, todas as despesas são totalizadas e é gerada uma nota fis
 - Valor do aluguel.
 
 ## Confirmação de reserva
-- Após a solicitação de reserva, é gerado um boleto bancário contendo número do boleto, data de vencimento e valor do aluguel.
-- O boleto deve ser pago para confirmar a reserva.
+- Após a solicitação de reserva, é gerado um boleto. O boleto deve ser pago para confirmar a reserva.
 
 ## Identificação da Casa Reservada
 - Cada reserva está associada a um código único.
