@@ -13,9 +13,9 @@ para fechar a conta, todas as despesas são totalizadas e é gerada uma nota fis
 > Necessidades identificadas no texto criado pelo usuário
 
 - Controlar reserva por data ou periodo
-- Emissão de boleto bancario
-- Confirmação de reserva
+- Emissão de boleto bancario 
 - Identificação da Casa Reservada
+- Confirmação de reserva
 - Controlar despesas na lanchonete
 - Emissão de nota fiscal
 
@@ -33,12 +33,14 @@ para fechar a conta, todas as despesas são totalizadas e é gerada uma nota fis
 - Data de vencimento
 - Valor do aluguel.
 
-## Confirmação de reserva
-- Após a solicitação de reserva, é gerado um boleto. O boleto deve ser pago para confirmar a reserva.
-
 ## Identificação da Casa Reservada
-- Cada reserva está associada a um código único.
+- Cada reserva está associada a um código único(CODIGO DA RESERVA).
 - Esse código é apresentado na recepção do condomínio para identificar a casa reservada.
+
+
+## Confirmação de reserva
+- O boleto deve ser pago para confirmar a reserva.
+
 
 ## Controlar despesas na lanchonete
 - Durante a estadia do cliente, as despesas na lanchonete do condomínio são registradas.
@@ -54,9 +56,10 @@ para fechar a conta, todas as despesas são totalizadas e é gerada uma nota fis
 
 - Cadastro e Manutenção da conta do Usuário:
 - Cadastro e Manutenção da conta de Funcionarios:
+- Cadastro e Manutenção da casas:
 - Consulta de Disponibilidade de Casas
 - Solicitação de Reserva
-- Geração de Boleto Bancário
+- Geração de Boleto Bancário e Codigo da Reserva
 - Confirmação de Reserva
 - Identificação da Casa Reservada
 - Registro de Despesas na Lanchonete
@@ -67,4 +70,3 @@ para fechar a conta, todas as despesas são totalizadas e é gerada uma nota fis
 
 # Diagrama de casos de Uso
 > Diagrama visual dos casos de uso, disponivel em outra pasta
-> 
