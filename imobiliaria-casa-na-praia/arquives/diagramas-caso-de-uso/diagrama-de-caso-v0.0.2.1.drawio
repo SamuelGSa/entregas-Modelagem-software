@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-22T23:38:05.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="c2kNrUwWHaH5fRoaNK7F" version="24.0.4" type="device">
+<mxfile host="Electron" modified="2024-03-23T00:00:43.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="lMPUif-jNaIAW1IvuwW8" version="24.0.4" type="device">
   <diagram name="v2.1" id="9f3W9VO9dHgqnGIH7AgD">
     <mxGraphModel dx="818" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="Ho6uRe960rDuoMjPk8a8-13" value="&lt;div&gt;MANTER&lt;/div&gt;&lt;div&gt;CLIENTE&lt;br&gt;(Criar/ Consultar / Atualizar )&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#780AFF;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="70" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ho6uRe960rDuoMjPk8a8-14" value="CONSULTAR DISPONIBILIDADE DAS CASAS" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#780AFF;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
+        <mxCell id="Ho6uRe960rDuoMjPk8a8-14" value="MANTER&lt;div&gt;&amp;nbsp;CASAS &lt;br&gt;(Consulta)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#780AFF;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho6uRe960rDuoMjPk8a8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Ho6uRe960rDuoMjPk8a8-1" source="Ho6uRe960rDuoMjPk8a8-11" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="Ho6uRe960rDuoMjPk8a8-16" value="&lt;div&gt;DELETAR&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;CLIENTE&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#990000;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho6uRe960rDuoMjPk8a8-17" value="MANTER&lt;div&gt;&amp;nbsp;CASAS DO CONDOMINO&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#990000;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
+        <mxCell id="Ho6uRe960rDuoMjPk8a8-17" value="MANTER&lt;div&gt;&amp;nbsp;CASAS ( Criar /Editar / Excluir)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#990000;" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho6uRe960rDuoMjPk8a8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Ho6uRe960rDuoMjPk8a8-1" source="Ho6uRe960rDuoMjPk8a8-4" target="Ho6uRe960rDuoMjPk8a8-17" edge="1">
@@ -221,7 +221,7 @@
         <mxCell id="Ho6uRe960rDuoMjPk8a8-47" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=1" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="880" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ho6uRe960rDuoMjPk8a8-48" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=1" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
+        <mxCell id="Ho6uRe960rDuoMjPk8a8-48" value="2.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=1" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
           <mxGeometry x="430" y="960" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ho6uRe960rDuoMjPk8a8-49" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=1" parent="Ho6uRe960rDuoMjPk8a8-1" vertex="1">
